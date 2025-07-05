@@ -30,8 +30,13 @@ Future Enagagment
 
 ### Overwiew| Growth Funnel Report
 
-![](vendBridge(overview))
-The total number of 1,981,807 users install the Application but 1,213,484 users signup
+![](https://github.com/EstherAyorinde/Venbridge_Ecommerce_Analysis/blob/main/vendBridge(overview).png)
+
+The total number of 1,981,807 users install the Application but 1,213,484 users signup.
+61.2% is the rate of users that signup with 1.1% churn rate of the user that signup to the App.
+13,113 users uninstall the app.
+
+
 ## 📁 Files
 - `VendBridge_GrowthDashboard.twbx` – Tableau Packaged Workbook
 - `dashboard-screenshot.png` – Preview of the dashboard
