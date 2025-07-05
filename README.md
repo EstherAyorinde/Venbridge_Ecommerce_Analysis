@@ -44,11 +44,38 @@ The average daily user of the Application is 3,011 and the average time spent is
 Android Devices has the highest Volume of transaction with 271,639 more that IOS Devices with 199,456
 US Region has the highest volume of transaction that other region.
 
+---
+
 ## Region Leadership
 ![](https://github.com/EstherAyorinde/Venbridge_Ecommerce_Analysis/blob/main/VendBridge(Region).png)
 
-The dashboard helped uncover regional performance trends and contributed to strategic decisions to improve user retention and engagement.
+The dashboard helped uncover regional performance trends and contributed to strategic decisions to improve user retention and engagement 
+they are classified into Leadership tiers which includes: Bronze,Gold,Sliver and Newbie and also shows significant variation across geographies:
+- *US Region** leads all others with **317,189**, demonstrating strong adoption and user loyalty with the leadership tie(Gold).
+- **EMEA, Canada, and APAC** display balanced engagement across leadership tiers (Silver,Bronze), showing potential for expansion and community growth.
+- **LATAM** underperforms(Newbie), indicating a need for targeted engagement or onboarding improvements.
 
-## Future Enagagment
+---
 
+## Future Enagagment Forecast
+
+![](https://github.com/EstherAyorinde/Venbridge_Ecommerce_Analysis/blob/main/VendBridge(Future).png)
+
+The forecasting analysis reveals the following trends for user activity:
+-User engagement is projected to remain stable around **35K–40K daily active users** through the next quarter.
+-Sharp engagement peaks in **mid-June and late August** suggest successful campaign periods.
+-To sustain and increase engagement, consider:
+-Scheduling product updates or promotions during proven high-traffic periods.
+-Introducing **loyalty program** to prevent user fatigue.
+-Monitoring actuals closely to recalibrate estimates in the next forecasting cycle.
+
+---
+
+**Recommendations:**
+- Perform a **region-specific UX audit** for LATAM to uncover friction points.
+- Localize onboarding content or campaigns based on user preferences.
+- Introduce regional challenges or tiered rewards to increase leadership scores and foster competition.
+
+---
+THANK YOU
 
