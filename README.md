@@ -43,13 +43,12 @@ The total transaction that was made on the App is 471,095,
 The average daily user of the Application is 3,011 and the average time spent is 100 Minutes.
 Android Devices has the highest Volume of transaction with 271,639 more that IOS Devices with 199,456
 US Region has the highest volume of transaction that other region.
-## 📁 Files
-- `VendBridge_GrowthDashboard.twbx` – Tableau Packaged Workbook
-- `dashboard-screenshot.png` – Preview of the dashboard
 
-## 💡 Insights
+## Region Leadership
+![](https://github.com/EstherAyorinde/Venbridge_Ecommerce_Analysis/blob/main/VendBridge(Region).png)
+
 The dashboard helped uncover regional performance trends and contributed to strategic decisions to improve user retention and engagement.
 
----
+## Future Enagagment
 
-> Created by Esther Oluwasayo Ayorinde | Data Analytics Consultant at Amadri
+
