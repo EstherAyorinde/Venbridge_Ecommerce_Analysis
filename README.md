@@ -36,7 +36,13 @@ The total number of 1,981,807 users install the Application but 1,213,484 users 
 61.2% is the rate of users that signup with 1.1% churn rate of the user that signup to the App.
 13,113 users uninstall the app.
 
+### User Engagement
+![](https://github.com/EstherAyorinde/Venbridge_Ecommerce_Analysis/blob/main/VendBrigde(user).png)
 
+The total transaction that was made on the App is 471,095,
+The average daily user of the Application is 3,011 and the average time spent is 100 Minutes.
+Android Devices has the highest Volume of transaction with 271,639 more that IOS Devices with 199,456
+US Region has the highest volume of transaction that other region.
 ## 📁 Files
 - `VendBridge_GrowthDashboard.twbx` – Tableau Packaged Workbook
 - `dashboard-screenshot.png` – Preview of the dashboard
